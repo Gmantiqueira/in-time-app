@@ -1,0 +1,12 @@
+{
+  "name": "in-time-app",
+  "displayName": "in-time-app",
+  "expo": {
+    "name": "in-time-app",
+    "slug": "in-time-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
